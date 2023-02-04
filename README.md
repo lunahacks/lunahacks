@@ -1,6 +1,7 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/l3q2XB76CaWPggiNW/giphy.gif" width="1650" height="250"/>
-</div>
+<div class="header"  >
+	<img src="https://media.giphy.com/media/YYO6L6Z3TDYJS3TuqO/giphy.gif" width="100vw"  sizes="(min-width: 1200px) 1200px, 100vw"   /></div>
+
+
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
